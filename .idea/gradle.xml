@@ -102,11 +102,22 @@
         <option name="externalProjectPath" value="$PROJECT_DIR$/node_modules/react-native-reanimated/android" />
         <option name="gradleHome" value="C:/Program Files/Apache/Gradle/gradle-8.13" />
         <option name="gradleJvm" value="#JAVA_HOME" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/node_modules/react-native-reanimated/android" />
+            <option value="$PROJECT_DIR$/node_modules/react-native-reanimated/android/lib" />
+          </set>
+        </option>
       </GradleProjectSettings>
       <GradleProjectSettings>
         <option name="externalProjectPath" value="$PROJECT_DIR$/node_modules/react-native-safe-area-context/android" />
         <option name="gradleHome" value="C:/Program Files/Apache/Gradle/gradle-8.13" />
         <option name="gradleJvm" value="#JAVA_HOME" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/node_modules/react-native-safe-area-context/android" />
+          </set>
+        </option>
       </GradleProjectSettings>
       <GradleProjectSettings>
         <option name="externalProjectPath" value="$PROJECT_DIR$/node_modules/react-native-screens/android" />
